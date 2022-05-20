@@ -1,0 +1,15 @@
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\bin\Debug\net6.0\ProjectEiler2.exe
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\bin\Debug\net6.0\ProjectEiler2.deps.json
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\bin\Debug\net6.0\ProjectEiler2.runtimeconfig.json
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\bin\Debug\net6.0\ProjectEiler2.dll
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\bin\Debug\net6.0\ProjectEiler2.pdb
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\obj\Debug\net6.0\ProjectEiler2.csproj.AssemblyReference.cache
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\obj\Debug\net6.0\ProjectEiler2.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\obj\Debug\net6.0\ProjectEiler2.AssemblyInfoInputs.cache
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\obj\Debug\net6.0\ProjectEiler2.AssemblyInfo.cs
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\obj\Debug\net6.0\ProjectEiler2.csproj.CoreCompileInputs.cache
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\obj\Debug\net6.0\ProjectEiler2.dll
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\obj\Debug\net6.0\refint\ProjectEiler2.dll
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\obj\Debug\net6.0\ProjectEiler2.pdb
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\obj\Debug\net6.0\ProjectEiler2.genruntimeconfig.cache
+D:\YandexDisk\ProjectEiler\2NumbersFibonachi\ProjectEiler2\ProjectEiler2\obj\Debug\net6.0\ref\ProjectEiler2.dll
