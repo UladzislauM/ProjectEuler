@@ -1,0 +1,15 @@
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\bin\Debug\net6.0\TheLargestPrimeDivisor3.exe
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\bin\Debug\net6.0\TheLargestPrimeDivisor3.deps.json
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\bin\Debug\net6.0\TheLargestPrimeDivisor3.runtimeconfig.json
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\bin\Debug\net6.0\TheLargestPrimeDivisor3.dll
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\bin\Debug\net6.0\TheLargestPrimeDivisor3.pdb
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\obj\Debug\net6.0\TheLargestPrimeDivisor3.csproj.AssemblyReference.cache
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\obj\Debug\net6.0\TheLargestPrimeDivisor3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\obj\Debug\net6.0\TheLargestPrimeDivisor3.AssemblyInfoInputs.cache
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\obj\Debug\net6.0\TheLargestPrimeDivisor3.AssemblyInfo.cs
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\obj\Debug\net6.0\TheLargestPrimeDivisor3.csproj.CoreCompileInputs.cache
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\obj\Debug\net6.0\TheLargestPrimeDivisor3.dll
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\obj\Debug\net6.0\refint\TheLargestPrimeDivisor3.dll
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\obj\Debug\net6.0\TheLargestPrimeDivisor3.pdb
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\obj\Debug\net6.0\TheLargestPrimeDivisor3.genruntimeconfig.cache
+D:\GitHub\ProjectEuler\TheLargestPrimeDivisor3\TheLargestPrimeDivisor3\obj\Debug\net6.0\ref\TheLargestPrimeDivisor3.dll
