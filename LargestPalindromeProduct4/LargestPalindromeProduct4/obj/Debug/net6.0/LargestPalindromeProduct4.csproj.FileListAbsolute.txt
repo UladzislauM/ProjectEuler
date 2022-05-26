@@ -1,0 +1,15 @@
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\bin\Debug\net6.0\LargestPalindromeProduct4.exe
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\bin\Debug\net6.0\LargestPalindromeProduct4.deps.json
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\bin\Debug\net6.0\LargestPalindromeProduct4.runtimeconfig.json
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\bin\Debug\net6.0\LargestPalindromeProduct4.dll
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\bin\Debug\net6.0\LargestPalindromeProduct4.pdb
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\obj\Debug\net6.0\LargestPalindromeProduct4.csproj.AssemblyReference.cache
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\obj\Debug\net6.0\LargestPalindromeProduct4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\obj\Debug\net6.0\LargestPalindromeProduct4.AssemblyInfoInputs.cache
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\obj\Debug\net6.0\LargestPalindromeProduct4.AssemblyInfo.cs
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\obj\Debug\net6.0\LargestPalindromeProduct4.csproj.CoreCompileInputs.cache
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\obj\Debug\net6.0\LargestPalindromeProduct4.dll
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\obj\Debug\net6.0\refint\LargestPalindromeProduct4.dll
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\obj\Debug\net6.0\LargestPalindromeProduct4.pdb
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\obj\Debug\net6.0\LargestPalindromeProduct4.genruntimeconfig.cache
+D:\GitHub\ProjectEuler\LargestPalindromeProduct4\LargestPalindromeProduct4\obj\Debug\net6.0\ref\LargestPalindromeProduct4.dll
